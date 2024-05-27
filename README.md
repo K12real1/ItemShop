@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
-na
-na
-na
+EID_Jaywalking, 1000
+CID_442_Athena_Commando_F_BannerA, 1200
+CID_748_Athena_Commando_F_Hitman, 1200
+LSID_073_DustyDepot, 400
+Trails_ID_013_ShootingStar, 800
+DragonRacer_Bundle, 3500
 MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
+Glider_ID_201_TNTinaFemale, 1500
 EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+Wrap_083_PlasticArmyGrey, 300
+EID_Breakboy, 500
+BID_439_OrnamentSoldier, 200
